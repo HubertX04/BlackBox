@@ -1,4 +1,4 @@
-# BlackBox
+# BlackBox - C++
 
 # Informacje o grze
 Black Box to abstrakcyjna gra planszowa dla jednego lub dwóch graczy, która symuluje strzelanie promieniami do czarnej skrzynki <br/>
