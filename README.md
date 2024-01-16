@@ -12,10 +12,10 @@ prawo;<br/>
 • q, Q – wyjście do menu głównego;<br/>
 • u, U – undo (cofnij ruch);<br/>
 • r, R – redo (powtórz cofnięty ruch);<br/>
-• spacja oddanie strzału (gdy kursor jest na dowolnej ścianie);<br/>
-• o - na planszy umożliwia zaznaczenie przypuszczalnego położenia atomu;<br/>
-• k – kończy rozgrywkę i umożliwia wyświetlenie rozwiązania i liczby uzyskanych punktów
+• spacja - oddanie strzału (gdy kursor jest na dowolnej ścianie);<br/>
+• o, O - na planszy umożliwia zaznaczenie przypuszczalnego położenia atomu;<br/>
+• k, K – kończy rozgrywkę i umożliwia wyświetlenie rozwiązania i liczby uzyskanych punktów
 (poprawnie znalezionych atomów);<br/>
-• p – umożliwia wyświetlenie rozwiązania (przerywa etap gry, brak możliwości kontynuowania
+• p, P – umożliwia wyświetlenie rozwiązania (przerywa etap gry, brak możliwości kontynuowania
 tego etapu gry);<br/>
-• H – Help/Pomoc – pokazuje na chwilę umieszczenie atomów na planszy;
+• h, H – Help/Pomoc – pokazuje na chwilę umieszczenie atomów na planszy;
